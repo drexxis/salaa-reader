@@ -9,3 +9,6 @@ env/
 .vscode/
 Thumbs.db
 Desktop.ini
+
+# Ses dosyalari binary ve buyuk, repoda tutulmuyor
+*.mp3
